@@ -14,3 +14,11 @@ In deze klasse maak je onderstaande 6 statische methoden aan :
 •	double RectangleArea(double height, double width)   // oppervlakte rechthoek (hoogte, breedte)  
  
 Implementeer vervolgens deze methoden in je WPF event handlers.  
+
+> omtrek cirkel = 2 * straal * Pi  
+> oppervlakte cirkel = straal * straal * Pi  
+> omtrek vierkant = zijde * 4  
+> oppervlakte vierkant = zijde * zijde  
+> omtrek rechthoek = (hoogte + breedte) * 2  
+> oppervlakte rechthoek = hoogte * breedte  
+> pi kan je opvragen via Math.Pi of voer je zelf in (als constante) : 3.1415926535897931  
